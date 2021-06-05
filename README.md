@@ -2,5 +2,5 @@
 The repository for git use practice
 
 # contributor
-1. happpyhddey
+1. happyhddey
 2. 
